@@ -1,5 +1,5 @@
 # Modern Observatory mudou de nome
 
-Agora somos **Observatório MtG**. Acesse https://gigio-santin.github.io/observatorio-mtg/ .
+Agora somos **Observatório MtG**. Acesse https://observatoriomtg.com.br/ .
 
-Este endereço encaminha visitantes ao novo portal. Objetos estáticos antigos são preservados para abas já abertas.
+Este repositório mantém somente o encaminhamento ao portal atual. Dados e assets antigos foram removidos da versão publicada; versões anteriores permanecem no histórico Git.
